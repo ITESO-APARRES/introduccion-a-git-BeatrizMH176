@@ -9,5 +9,3 @@ int main(){
 void saludo(char* nombre){
     printf("Hola %s",nombre);
 }
-//Comentarios en c
-
