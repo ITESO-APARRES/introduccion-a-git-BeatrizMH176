@@ -4,10 +4,8 @@ int main(){
     printf("Ya no recuerdo la sintaxis de c")
     saludo("Betty")
     return 0;
-}
+}//comentarios en c
 
 void saludo(char* nombre){
     printf("Hola %s",nombre);
 }
-//Comentarios en c
-
